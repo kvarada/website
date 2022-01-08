@@ -1,7 +1,7 @@
 ---
 title: Varada Kolhatkar
 role: Assistant Professor of Teaching
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.png
 bio: "My interests include teaching and learning of data science and related
   topics. "
 interests:
