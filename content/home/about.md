@@ -2,13 +2,13 @@
 widget: about
 active: true
 author: admin
-widget_id: "Welcome to my homepage!"
+widget_id: Welcome to my homepage!
 headless: true
 weight: 20
 title: Biography
 design:
   background:
-    image: ""
+    image: 2021-12-31-13.47.20.jpeg
 ---
 I am Varada Kolhatkar ([IPA:](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \[ʋəɾəda kɔːlɦəʈkər]). (If you are curious, Varada (वरदा) is a Sanskrit name, which means the one who grants your wishes 😇!) I grew up in a traditional household in a city called [Pune](https://en.wikipedia.org/wiki/Pune) in India. My first language is [Marathi](https://en.wikipedia.org/wiki/Marathi_language).    
 
