@@ -8,7 +8,7 @@ weight: 20
 title: "Welcome! "
 design:
   background:
-    image: 2021-12-31-13.47.20.jpeg
+    image: ""
 ---
 I am Varada Kolhatkar ([IPA:](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \[ʋəɾəda kɔːlɦəʈkər]). (If you are curious, Varada (वरदा) is a Sanskrit name, which means the one who grants your wishes 😇!) I grew up in a traditional household in a city called [Pune](https://en.wikipedia.org/wiki/Pune) in India. My first language is [Marathi](https://en.wikipedia.org/wiki/Marathi_language).    
 
