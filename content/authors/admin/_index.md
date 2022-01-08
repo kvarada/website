@@ -10,7 +10,7 @@ interests:
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fas
     link: kvarada@cs.ubc.ca
   - icon: twitter
     icon_pack: fab
