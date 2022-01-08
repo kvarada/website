@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: profile.png
+    image: ""
 ---
 My name is Varada Kolhatkar ([IPA:](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \[ʋəɾəda kɔːlɦəʈkər]). (If you are curious, Varada (वरदा) is a Sanskrit name, which means the one who grants your wishes 😊!)
 
