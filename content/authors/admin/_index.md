@@ -5,9 +5,10 @@ avatar_filename: 2021-12-31-13.47.20.jpeg
 bio: "My interests include teaching and learning of data science and related
   topics. "
 interests:
+  - Teaching and learning
+  - Applied Machine Learning
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
