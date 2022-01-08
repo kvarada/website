@@ -5,7 +5,7 @@ author: admin
 widget_id: Welcome to my homepage!
 headless: true
 weight: 20
-title: Biography
+title: "Welcome! "
 design:
   background:
     image: 2021-12-31-13.47.20.jpeg
