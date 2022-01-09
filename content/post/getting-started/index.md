@@ -1,6 +1,6 @@
 ---
-title: ['Panini': भाषाशास्त्रज्ञ की सॅन्डविच?](https://aisiakshare.com/index.php?q=node/6268)
-subtitle: This article, written in Marathi, gives a brief introduction to Computational Linguistics.  
+title: "'Panini': भाषाशास्त्रज्ञ की सॅन्डविच?"
+subtitle: This article, written in Marathi, provides a brief introduction to the field of computational linguistics. 
 
 # Link this post with a project
 projects: []
@@ -20,14 +20,14 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
 
 authors:
 - admin
-- वरदा कोल्हटकर
+-  वरदा कोल्हटकर
 
 tags:
 - Academic
@@ -35,5 +35,3 @@ tags:
 categories:
 - Demo
 ---
-
-Welcome to this page! 
