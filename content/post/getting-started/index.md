@@ -29,11 +29,9 @@ authors:
 - admin
 -  वरदा कोल्हटकर
 
-tags:
-- Academic
+tags: []
 
-categories:
-- Demo
+categories: []
 ---
 
 ## [Read the article](https://aisiakshare.com/index.php?q=node/6268).
