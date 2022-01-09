@@ -1,5 +1,5 @@
 ---
-title: "'Panini': भाषाशास्त्रज्ञ की सॅन्डविच?"
+title: "['Panini': भाषाशास्त्रज्ञ की सॅन्डविच?](https://aisiakshare.com/index.php?q=node/6268)"
 subtitle: This article, written in Marathi, provides a brief introduction to the field of computational linguistics. 
 
 # Link this post with a project
@@ -20,7 +20,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
